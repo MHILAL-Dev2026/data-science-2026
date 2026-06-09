@@ -1,12 +1,12 @@
 # data-science-2026
 Perkenalkan nama saya Muhammad Hilal ADM yang sedang menjalani perkuliahan aktif di Universitas Siber Asia. Tujuan saya untuk belajar data science adalah karena perannya yang krusial dalam mengolah data menjadi informasi yang bernilai bagi pengambilan keputusan. Saya melihat bahwa kemampuan analisis data menjadi kebutuhan utama di berbagai sektor industri yang semakin berbasis teknologi. 
 
------
 
-Nama: Muhammad Hilal ADM 
-NIM: 250401020122 
-Kelas: IF 405 
-Program Studi: PJJ Informatika
+
+**Nama: Muhammad Hilal ADM**
+**NIM: 250401020122** 
+**Kelas: IF 405** 
+**Program Studi: PJJ Informatika**
 
 
 # Deskripsi Repositori
@@ -23,7 +23,7 @@ Repo ini berisikan kumpulan tugas hands on modul dari pertemuan 1 - 7 yang mempe
 6. Pertemuan 6: Data Preprocessing Pipeline & Dataset Titanic [Notebook P6](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan6_MuhammadHilalADM_250401020122.ipynb) 
 7. Pertemuan 7: Pengantar Machine Learning: Regresi Linear  [Notebook P7](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan7_MuhammadHilalADM_250401020122.ipynb) 
 
------
+
 
 ## Tech Stack yang Digunakan
 
