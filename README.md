@@ -3,10 +3,10 @@ Perkenalkan nama saya Muhammad Hilal ADM yang sedang menjalani perkuliahan aktif
 
 
 
-**Nama: Muhammad Hilal ADM**
-**NIM: 250401020122** 
-**Kelas: IF 405** 
-**Program Studi: PJJ Informatika**
+*Nama: Muhammad Hilal ADM
+*NIM: 250401020122 
+*Kelas: IF 405 
+*Program Studi: PJJ Informatika
 
 
 # Deskripsi Repositori
