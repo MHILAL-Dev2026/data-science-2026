@@ -1,35 +1,37 @@
-# Nama: Muhammad Hilal ADM // NIM: 250401020122 // Kelas: IF 405 // Program Studi: PJJ Informatika
 # data-science-2026
-
 Perkenalkan nama saya Muhammad Hilal ADM yang sedang menjalani perkuliahan aktif di Universitas Siber Asia. Tujuan saya untuk belajar data science adalah karena perannya yang krusial dalam mengolah data menjadi informasi yang bernilai bagi pengambilan keputusan. Saya melihat bahwa kemampuan analisis data menjadi kebutuhan utama di berbagai sektor industri yang semakin berbasis teknologi. 
 
 -----
 
+Nama: Muhammad Hilal ADM 
+NIM: 250401020122 
+Kelas: IF 405 
+Program Studi: PJJ Informatika
+
+
 # Deskripsi Repositori
 Repo ini berisikan kumpulan tugas hands on modul dari pertemuan 1 - 7 yang mempelajari pengenalan data science, strukture data pythonn dasar, data cleaning, analisis data, visualisasi data, data preprocessing, dan pengantar machine learning. Kumpulan tugas ini didokumentasikan untuk penilaian Ujian Tengah Semester (UTS).
 
------
 
 ## Daftar Pertemuan beserta Link Notebook
 
-Pertemuan 1: Pengenalan Data Science & Kerangka CRISP-DM  [Notebook P1](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan1_MuhammadHilalADM_250401020122.ipynb) 
-Pertemuan 2: Struktur Data Python Dasar, NumPy & Pandas  [Notebook P2](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan2_MuhammadHilalADM_250401020122.ipynb) 
-Pertemuan 3: Data Cleaning: Missing Values, Outlier & Ekstraksi Data  [Notebook P3](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan3_MuhammadHilalADM_250401020122.ipynb) 
-Pertemuan 4: Statistika Deskriptif & Analisis Data Univariat/Bivariat  [Notebook P4](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan4_MuhammadHilalADM_250401020122.ipynb) 
-Pertemuan 5: Visualisasi Data & Dashboard Analisis Statis  [Notebook P5](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan5_MuhammadHilalADM_250401020122.ipynb) 
-Pertemuan 6: Data Preprocessing Pipeline & Dataset Titanic [Notebook P6](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan6_MuhammadHilalADM_250401020122.ipynb) 
-Pertemuan 7: Pengantar Machine Learning: Regresi Linear  [Notebook P7](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan7_MuhammadHilalADM_250401020122.ipynb) 
+1. Pertemuan 1: Pengenalan Data Science & Kerangka CRISP-DM  [Notebook P1](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan1_MuhammadHilalADM_250401020122.ipynb) 
+2. Pertemuan 2: Struktur Data Python Dasar, NumPy & Pandas  [Notebook P2](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan2_MuhammadHilalADM_250401020122.ipynb) 
+3. Pertemuan 3: Data Cleaning: Missing Values, Outlier & Ekstraksi Data  [Notebook P3](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan3_MuhammadHilalADM_250401020122.ipynb) 
+4. Pertemuan 4: Statistika Deskriptif & Analisis Data Univariat/Bivariat  [Notebook P4](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan4_MuhammadHilalADM_250401020122.ipynb) 
+5. Pertemuan 5: Visualisasi Data & Dashboard Analisis Statis  [Notebook P5](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan5_MuhammadHilalADM_250401020122.ipynb) 
+6. Pertemuan 6: Data Preprocessing Pipeline & Dataset Titanic [Notebook P6](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan6_MuhammadHilalADM_250401020122.ipynb) 
+7. Pertemuan 7: Pengantar Machine Learning: Regresi Linear  [Notebook P7](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan7_MuhammadHilalADM_250401020122.ipynb) 
 
 -----
 
 ## Tech Stack yang Digunakan
 
-* **Python & Google Colab** — Digunakan sebagai bahasa utama dan media pengerjaan seluruh *notebook* dari Pertemuan 1 s.d 7.
-* **Pandas & NumPy** — Untuk kebutuhan *Data Cleaning* (mengatasi *missing values* & *outliers*) serta manipulasi data.
-* **Matplotlib & Seaborn** — Membantu dalam proses *Exploratory Data Analysis* (EDA) lewat grafik univariat dan bivariat.
-* **Scikit-Learn** — Diimplementasikan pada tahap akhir untuk membangun *pipeline* data dan pemodelan Regresi Linear.
+* **Python & Google Colab**  Digunakan sebagai bahasa utama dan media pengerjaan seluruh *notebook* dari Pertemuan 1 s.d 7.
+* **Pandas & NumPy**  Untuk kebutuhan *Data Cleaning* (mengatasi *missing values* & *outliers*) serta manipulasi data.
+* **Matplotlib & Seaborn** Membantu dalam proses *Exploratory Data Analysis* (EDA) lewat grafik univariat dan bivariat.
+* **Scikit-Learn** Diimplementasikan pada tahap akhir untuk membangun *pipeline* data dan pemodelan Regresi Linear.
 
------
 
 ##  Panduan Menjalankan Notebook
 
@@ -42,7 +44,7 @@ Langkah-Langkah Menjalankan di Link Google Colab:
 3. **Masukkan URL Repositori:** Masukkan tautan (*link*) repositori ini ke dalam kolom pencarian yang tersedia.
 4. **Pilih File Notebook:** Setelah repositori terdeteksi, pilih file dengan format `.ipynb` yang sesuai dengan materi pertemuan yang ingin Anda pelajari atau eksekusi.
 
------
+
 
 ## Kesimpulan Umum Perjalanan Belajar (Pertemuan 1 - 7)
 
