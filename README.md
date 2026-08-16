@@ -23,18 +23,19 @@ Repo ini berisikan kumpulan tugas hands on modul dari pertemuan 1 - 7 yang mempe
 6. Pertemuan 6: Data Preprocessing Pipeline & Dataset Titanic [Notebook P6](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan6_MuhammadHilalADM_250401020122.ipynb) 
 7. Pertemuan 7: Pengantar Machine Learning: Regresi Linear  [Notebook P7](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan7_MuhammadHilalADM_250401020122.ipynb)
 
-9. Pertemuan 9: Algoritma Klasifikasi (Bagian 1): Logistic Regression, Decision Trees, Confusion Matrix, Accuracy, Precision, Recall, dan
+8. Pertemuan 9: Algoritma Klasifikasi (Bagian 1): Logistic Regression, Decision Trees, Confusion Matrix, Accuracy, Precision, Recall, dan
 F1-Score. [Notebook P9](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan9_MuhammadHilalADM_250401020122.ipynb)
-10. Pertemuan 10: Algoritma Klasifikasi (Bagian 2): Metode Ensemble (Random Forest) dan penanganan Imbalanced Dataset. Termasuk
+9. Pertemuan 10: Algoritma Klasifikasi (Bagian 2): Metode Ensemble (Random Forest) dan penanganan Imbalanced Dataset. Termasuk
 Tugas Kelompok Customer Churn Prediction. [Notebook P10](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan10_MuhammadHilalADM_250401020122.ipynb)
-11. Pertemuan 11: Unsupervised Learning (Clustering): K-Means, Hierarchical Clustering, dan Metode Elbow untuk menentukan jumlah
+10. Pertemuan 11: Unsupervised Learning (Clustering): K-Means, Hierarchical Clustering, dan Metode Elbow untuk menentukan jumlah
 cluster optimal. [Notebook P11](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan11_MuhammadHilalADM_250401020122.ipynb)
-12. Pertemuan 12: Asosiasi Data & Sistem Rekomendasi Dasar: Algoritma Apriori (Market Basket Analysis) dan konsep
-Collaborative/Content-Based Filtering. [Notebook P12](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan12_MuhammadHilalADM_250401020122.ipynb)
-13. Pertemuan 13: Pengantar Deep Learning & NLP Dasar: konsep dasar Artificial Neural Network, serta pemrosesan teks sederhana
+11. Pertemuan 12: Asosiasi Data & Sistem Rekomendasi Dasar: Algoritma Apriori (Market Basket Analysis) dan konsep
+Cllaborative/Content-Based Filtering. [Notebook P12](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan12_MuhammadHilalADM_250401020122.ipynb)
+12. Pertemuan 13: Pengantar Deep Learning & NLP Dasar: konsep dasar Artificial Neural Network, serta pemrosesan teks sederhana
 dengan TF-IDF untuk analisis sentimen.[Notebook P13](https://github.com/MHILAL-Dev2026/data-science-2026/blob/main/Pertemuan13_MuhammadHilalADM_250401020122.ipynb)
 
-
+Note: Pertemuan 9 ditambahkan informasi Confusion Matrix (dalam visualisasi heatmap) serta Accuracy, Precision, Recall, dan F1-Score.
+Pertemuan 10 ditambahkan informasi Confusion Matrix (dalam visualisasi heatmap) serta Accuracy, Precision, Recall, F1-Score, dan Interpretasi singkat: metrik mana yang paling relevan untuk kasus tersebut dan mengapa, khususnya untuk dataset customer churn pada Pertemuan 10 yang cenderung imbalanced, di mana Accuracy saja bisa menyesatkan.
 
 ## Tech Stack yang Digunakan
 
